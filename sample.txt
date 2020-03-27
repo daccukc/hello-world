@@ -1,1 +1,2 @@
 this is original line
+add line 2 from branch2. this happened after branch1 merged to the trunk
